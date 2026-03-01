@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>PCI Klasse 7Hb � Microsoft Word �bungen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .center {
+            text-align: center;
+        }
+        .date {
+            text-align: right;
+            font-weight: bold;
+        }
+        .block {
+            text-align: justify;
+        }
+        .box {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<h1 class="center">PCI Klasse 7Hb � �bungen zu Microsoft Word</h1>
+
+<!-- Aufgabe 1 -->
+<div class="box">
+<h2 class="center" style="font-size:20px; font-weight:bold;">Mein Lieblingshobby</h2>
+
+<p>
+Mein Lieblingshobby ist es, Computerspiele zu spielen und mich mit meinen Freunden zu treffen.
+Ich spiele gerne verschiedene Spiele, besonders solche, bei denen man strategisch denken muss.
+Am Computer kann ich neue Welten entdecken und spannende Abenteuer erleben.
+Dabei verbessere ich auch meine Reaktionsf�higkeit und mein logisches Denken.
+Besonders viel Spa� macht es, wenn ich online mit meinen Freunden zusammen spiele.
+Wir sprechen dabei �ber Headset und arbeiten als Team zusammen.
+Neben dem Gaming treffe ich mich auch gerne drau�en mit meinen Freunden.
+Wir lachen viel, reden �ber die Schule oder planen neue Projekte.
+Mein Hobby sorgt daf�r, dass mir nie langweilig wird.
+Es verbindet Technik, Spa� und Freundschaft auf eine perfekte Weise.
+</p>
+
+<h3>Verwendete Formatierungen und warum sie hilfreich sind:</h3>
+<p>
+Die �berschrift wurde gr��er (Schriftgr��e 20), fett und zentriert formatiert, damit sie sofort auff�llt.
+Der Flie�text wurde in einer gut lesbaren Schriftart (Arial) und Schriftgr��e 12 geschrieben.
+Zwischen �berschrift und Text wurde ein Abstand eingef�gt, damit der Text �bersichtlich wirkt.
+Diese Formatierungen verbessern die Lesbarkeit und sorgen f�r eine klare Struktur.
+</p>
+</div>
+
+<!-- Aufgabe 2 -->
+<div class="box">
+<h2>Meine Top 5 Apps</h2>
+
+<ol>
+    <li><strong>YouTube</strong><br>
+    Ich nutze YouTube, um Tutorials zu schauen und mich �ber neue Themen zu informieren.</li>
+    
+    <li><strong>Blender</strong><br>
+    Blender benutze ich, um 3D-Modelle zu erstellen und kreative Projekte umzusetzen.</li>
+    
+    <li><strong>PyCharm</strong><br>
+    Mit PyCharm programmiere ich eigene Projekte in Python.</li>
+    
+    <li><strong>ChatGPT</strong><br>
+    ChatGPT hilft mir bei Hausaufgaben und beim Lernen neuer Themen.</li>
+    
+    <li><strong>LLaMA</strong><br>
+    LLaMA nutze ich, um mich mit KI-Technologien zu besch�ftigen.</li>
+</ol>
+
+<h3>Vorteile von Smartphones:</h3>
+<ul>
+    <li>Schnelle Kommunikation mit Freunden und Familie</li>
+    <li>Zugriff auf Informationen jederzeit und �berall</li>
+    <li>Organisation von Terminen und Aufgaben</li>
+</ul>
+
+<h3>Erkl�rung:</h3>
+<p>
+Eine nummerierte Liste wird verwendet, wenn die Reihenfolge wichtig ist, zum Beispiel bei einer Rangliste.
+Eine Liste mit Aufz�hlungszeichen nutzt man, wenn die Reihenfolge egal ist, zum Beispiel bei Vorteilen.
+</p>
+</div>
+
+<!-- Aufgabe 3 -->
+<div class="box">
+<p class="date">01.03.2026</p>
+
+<h2>Einladung zum Klassenausflug</h2>
+
+<p class="block" style="line-height:1.5;">
+Liebe Klasse 7Hb,<br><br>
+ich m�chte euch herzlich zu unserem n�chsten Klassenausflug einladen.
+Wir planen einen gemeinsamen Ausflug in einen Freizeitpark.
+Dort k�nnen wir viele spannende Attraktionen ausprobieren.
+Au�erdem haben wir genug Zeit, um gemeinsam Spa� zu haben.
+Wir werden morgens zusammen mit dem Bus fahren.
+Bitte denkt daran, genug Essen und Trinken mitzunehmen.
+Vergesst auch nicht wetterfeste Kleidung.
+Ich bin sicher, dass dieser Ausflug ein tolles Erlebnis f�r uns alle wird.
+Lasst uns gemeinsam einen unvergesslichen Tag verbringen.
+</p>
+
+<h3>Erkl�rung:</h3>
+<p>
+Den Zeilenabstand stellt man in Word im Men� �Start� unter dem Symbol f�r Zeilen- und Absatzabstand ein.
+Die Textausrichtung kann ebenfalls im Men� �Start� angepasst werden, zum Beispiel linksb�ndig, zentriert oder Blocksatz.
+Der Blocksatz sorgt daf�r, dass beide Seitenr�nder gleichm��ig aussehen.
+</p>
+</div>
+
+<!-- Aufgabe 4 -->
+<div class="box">
+<h2>Meine Schule</h2>
+
+<p>
+Ich besuche die Schule Leucorea.
+Unsere Schule bietet viele verschiedene F�cher an.
+Besonders Informatik finde ich spannend.
+Dort lernen wir den Umgang mit Programmen und Computern.
+Die Lehrer unterst�tzen uns beim Lernen.
+In unserer Klasse herrscht meistens eine gute Stimmung.
+Wir arbeiten oft in Gruppen zusammen.
+Die Schule organisiert auch Projekte und Ausfl�ge.
+So wird der Unterricht abwechslungsreich gestaltet.
+Ich gehe gerne in diese Schule, weil ich viel Neues lerne.
+</p>
+
+<h3>Warum sind Kopfzeilen, Fu�zeilen und Seitenzahlen hilfreich?</h3>
+<p>
+Sie helfen dabei, den �berblick in l�ngeren Dokumenten zu behalten.
+Au�erdem erkennt man sofort, wem das Dokument geh�rt.
+Seitenzahlen erleichtern das schnelle Finden bestimmter Inhalte.
+</p>
+</div>
+
+<!-- Aufgabe 5 -->
+<div class="box">
+<h2>Warum sind sinnvolle Dateinamen wichtig?</h2>
+
+<p>
+Sinnvolle Dateinamen helfen dabei, Dokumente schnell wiederzufinden.
+Wenn der Dateiname das Thema und den Namen enth�lt, wei� man sofort, worum es geht.
+Eine klare Ordnerstruktur sorgt daf�r, dass Dateien ordentlich sortiert sind.
+Beispiel: Der Ordner �Informatik_7� enth�lt alle Dateien aus dem Informatikunterricht.
+So vermeidet man Verwirrung und spart Zeit beim Suchen.
+</p>
+</div>
+
+<!-- Aufgabe 6 -->
+<div class="box">
+<h2 style="font-size:18px; font-weight:bold;">Mein perfekter Nachmittag</h2>
+
+<p>
+Mein perfekter Nachmittag beginnt direkt nach der Schule. 
+Ich komme nach Hause, lege meinen Rucksack weg und ziehe bequeme Kleidung an. 
+Danach starte ich meinen Computer und spiele eine Runde mit meinen Freunden. 
+Wir lachen viel und planen neue Strategien f�r unsere n�chsten Spiele. 
+Manchmal programmiere ich auch kleine Projekte oder probiere neue Ideen aus. 
+Das macht mir besonders Spa�, weil ich dabei kreativ sein kann. 
+Sp�ter treffe ich mich vielleicht noch drau�en mit meinen Freunden. 
+Wir reden �ber unsere Erlebnisse und tauschen neue Ideen aus. 
+Am Abend entspanne ich mich und h�re Musik oder schaue mir interessante Videos an. 
+Am Ende des Tages bin ich zufrieden und freue mich auf den n�chsten Tag.
+</p>
+
+<p><strong>Bildquelle:</strong> Beispielbild von einer lizenzfreien Plattform wie Pixabay oder Unsplash.</p>
+
+</div>
+
+</body>
+</html>
